@@ -1,0 +1,22 @@
+.font1 {
+			font-size: 15px;
+		}
+
+		.color1 {
+			color:#52B2BF !important;
+		}
+		.bg {
+			background-color: #52B2BF; !important;
+		}
+		.carousel1 {
+			width  :30cm;
+			height : 12cm;
+		}
+		
+		@font-face{
+      font-family: "Font Mermaid";
+      src : url('Mermaid.TTF');
+    }
+    .mermaid {
+      font-family: "Font Mermaid";
+    }
