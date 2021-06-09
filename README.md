@@ -1,3 +1,2 @@
-# project-UAS
-Sistem Perpustakaan Online
-Praktikum Pemrograman Berbasis Web 
+# Sistem Perpustakaan Online
+Project UAS Praktikum Pemrograman Berbasis Web
